@@ -31,10 +31,10 @@
 - [x] Host your Database at [ElephantSQL](https://www.elephantsql.com/)
 
 ### Site Deployment Requirements
-- [ ] Deploy Docker container to Heroku
+- [x] Deploy Docker container to Heroku
 
 ### Implementation Notes
-- [ ]  Site must use environment variables.
+- [x]  Site must use environment variables.
 
 ### Useful Terminal Commands
 - `docker-compose up --build`
@@ -46,3 +46,6 @@
 ### User Acceptance Tests
 - Manually confirm API using API Tester, Postman or HTTPie.
 - Remember to use deployed url, not localhost
+
+
+### [PR](https://github.com/noureddein/cookie-stand-api/pull/1)
